@@ -17,7 +17,7 @@
  *
  * 			Lower 			beings 		- Samuel Okei
  * 										- Patrick Gipson
- * 										- Brad Ward (executive shit talker)
+ * 										- Brad Ward
  * 										- Manvitha Karre
  * 										- Lawrence Lewis
  *
